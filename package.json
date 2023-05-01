@@ -1,0 +1,11 @@
+{
+  "name": "xpressjs",
+  "version": "1.0.0",
+  "description": "Mimic Core features of expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sai Marn Pha",
+  "license": "ISC"
+}
