@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sai Marn Pha",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "http": "^0.0.1-security",
+    "nodemon": "^2.0.22",
+    "parseurl": "^1.3.3"
+  }
 }
